@@ -1,12 +1,10 @@
 {
   "$jason": {
     "head": {
-      "title": "Behave like a regular browser",
-      "description": "The web container will behave like a regular browser, refreshing content when you click a link"
     },
     "body": {
       "header": {
-        "title": "Regular Browser"
+        "title": "haiNa 2.0: Philippine Legal Resources"
       },
       "background": {
         "type": "html",
