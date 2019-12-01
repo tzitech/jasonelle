@@ -10,7 +10,7 @@
       },
       "background": {
         "type": "html",
-        "url": "https://github.com/tzitech/jasonelle/master/dtForm.html",
+        "url": "http://htmlpreview.github.io/?https://github.com/tzitech/jasonelle/master/dtForm.html",
         "action": {
           "type": "$default"
         }
