@@ -1,6 +1,7 @@
 {
   "$jason": {
     "head": {
+      "title": "Header Example"
     },
     "body": {
       "header": {
