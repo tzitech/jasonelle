@@ -1,9 +1,11 @@
 {
   "$jason": {
     "head": {
-      "title": "haiNa 2.0",
     },
     "body": {
+      "header": {
+        "title": "haiNa 2.0"
+      },
       "background": {
         "type": "html",
         "url": "https://tzitech.github.io/index.html",
