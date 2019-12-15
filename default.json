@@ -1,7 +1,8 @@
 {
   "$jason": {
     "head": {
-      "title": "haiNa"
+      "title": "haiNa",
+      "offline": "true",
     },
     "body": {
       "header": {
