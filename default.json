@@ -5,7 +5,14 @@
     },
     "body": {
       "header": {
-        "title": "haiNa 2.0: Philippine Legal Resources"
+        "title": {
+          "type": "label",
+          "text": "haiNa 2.0: Philippine Legal Resources", 	
+          "style": {
+              "font": "Droid Serif-Bold",
+              "size": "18"
+	        {
+        }
       },
       "background": {
         "type": "html",
