@@ -17,7 +17,7 @@
       },
       "background": {
         "type": "html",
-        "url": "https://tzitech.github.io/index.html",
+        "url": "file://index.html",
         "action": {
           "type": "$default"
         }
